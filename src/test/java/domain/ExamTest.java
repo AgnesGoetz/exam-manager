@@ -17,4 +17,9 @@ public class ExamTest {
 		
 		exercise1Content.equals(assertThat(exam.generate()));
 	}
+
+	@Test
+	void motivation_sentimentale() {
+		
+	}
 }
