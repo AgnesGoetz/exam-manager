@@ -1,0 +1,16 @@
+Replace les mots (ou groupes de mots) dans le texte :
+
+..., je suis partie avec maman à l'école.
+    [] Maintenant
+    [] Ce matin
+    [] Ce soir
+    
+..., nous sommes à la piscine.
+    [] Maintenant
+    [] Ce matin
+    [] Ce soir
+
+..., je prendrai un grand bain chaud.
+    [] Maintenant
+    [] Ce matin
+    [] Ce soir

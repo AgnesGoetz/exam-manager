@@ -1,0 +1,16 @@
+Replace les mots (ou groupes de mots) dans le texte :
+
+...  je vais au Musée du Louvre.
+   [] L'année prochaine 
+   [] Aujourd'hui 
+   [] L'année dernière 
+    
+... nous avons visité le château de Versailles.
+   [] L'année prochaine 
+   [] Aujourd'hui 
+   [] L'année dernière
+    
+..., vous serez en CE1.
+   [] L'année prochaine 
+   [] Aujourd'hui 
+   [] L'année dernière
